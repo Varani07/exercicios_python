@@ -1,0 +1,3 @@
+Hello File, new text!
+Youre my favorite file.
+Third line is the best line!
